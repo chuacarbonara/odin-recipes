@@ -1,1 +1,2 @@
 # odin-recipes
+This project is about creating a simple recipes website, where I demonstrate all the skills and know-how that I, the creator of this site, had accumulated thus far from the HTML portion of the Foundations course of The Odin Project.
