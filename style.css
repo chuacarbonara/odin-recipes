@@ -1,0 +1,88 @@
+body {
+    margin: 0 auto;
+    padding: 20px 60px;
+    background-color: rgb(230, 201, 178);
+}
+
+.or,.ul {
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+    padding: 30px 100px;
+}
+
+.or {
+    border: 3px solid rgb(71, 0, 0);
+    background-color: rgb(255, 193, 142);
+}
+
+.ul {
+    border: 3px solid rgb(71, 0, 0);
+    background-color: rgb(255, 193, 142);
+    font-size: large;
+}
+
+.tc:hover {
+    background-color: rgb(255, 162, 162);
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.mm:hover {
+    background-color: rgb(184, 255, 175);
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.rc:hover {
+    background-color: rgb(175, 246, 255);
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.tc-h1,.mm-h1,.rc-h1 {
+    border: solid #5C4033;
+    width: max-content;
+    background-color: whitesmoke;
+    color: #5C4033;
+    padding: 16px;
+}
+
+.tc-h1 {
+    background-color: rgb(255, 162, 162);
+}
+
+.rc-h1 {
+    background-color: rgb(175, 246, 255);
+}
+
+.mm-h1 {
+    background-color: rgb(184, 255, 175);
+}
+
+.home {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.home:hover {
+    font-size: large;
+}
+
+.steps,.ingredients {
+    border: solid #5C4033;
+    width: max-content;
+    background-color: whitesmoke;
+    padding: 16px;
+    margin: 24px;
+}
+
+li:hover {
+    font-size: larger;
+    font-weight: bolder;
+}
